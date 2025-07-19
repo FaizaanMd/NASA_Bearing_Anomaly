@@ -126,12 +126,15 @@ Root/
 │   ├── BearingTest_3_Anomalies.csv
 └── Readme Document for IMS Bearing Data.pdf
 
----
-##License
-This project is provided for educational and research purposes. Please reference the original dataset source for any publication or presentation.
----
+## 🔖 License
 
-##Author
-Md Faizaan
-[Linkedin](https://www.linkedin.com/in/faizaan-md-449064358/) | [Github](https://github.com/FaizaanMd)
+This project is provided for educational and research purposes. Please reference the original dataset source for any publication or presentation.
+
+## 👤 Author
+
+**Md Faizaan**  
+[LinkedIn](https://www.linkedin.com/in/faizaan-md-449064358/) | [GitHub](https://github.com/FaizaanMd)
+
+Feel free to reach out if you have any questions or feedback regarding this project.
+
 
