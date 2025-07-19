@@ -125,6 +125,7 @@ Root/
 │   ├── BearingTest_2_Anomalies.csv
 │   ├── BearingTest_3_Anomalies.csv
 └── Readme Document for IMS Bearing Data.pdf
+```
 
 ## 🔖 License
 
